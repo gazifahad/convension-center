@@ -25,7 +25,10 @@ body{
       right:0;
   }
   .blue-footer{
-      height: 300px;
-      
-      
+      height: 200px;
+   
+  }
+  .blue-footer img{
+      width: 130px;
+      height: 120px;
   }
