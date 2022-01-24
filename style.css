@@ -1,4 +1,26 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
 .blue-carousel img{
    
     height:584px;
 }
+.blue-packages ul li{
+    list-style: none;
+    
+
+}
+.blue-packages a{
+    text-decoration: none;
+}
+.blue-offers p:before {
+    content: '✓  ';
+  }
+  .blue-third{
+      position: relative;
+  }
+  .blue-badge{
+      position: absolute;
+      top:-20px;
+      right:0;
+  }
